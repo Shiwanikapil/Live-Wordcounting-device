@@ -1,1 +1,1 @@
-
+word counting device 
