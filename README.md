@@ -1,1 +1,1 @@
-WordCounting device- counts words
+WordCounting device- counts words.
