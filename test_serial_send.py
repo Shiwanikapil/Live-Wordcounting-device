@@ -3,7 +3,7 @@ import serial
 import time
 import requests
 
-# ----- Serial connection to Arduino -----
+# ----- Serial connection to Arduino ----
 arduino = serial.Serial('COM3', 9600)   # ⚠ apna COM port check kar lo 
 time.sleep(2)
 
