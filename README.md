@@ -1,1 +1,1 @@
-Word Counting device:iot interated
+Word Counting device:iot 
