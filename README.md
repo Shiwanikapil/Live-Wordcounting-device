@@ -1,1 +1,1 @@
-Word Counting device:iot 
+Word Counting device.
